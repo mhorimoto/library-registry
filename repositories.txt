@@ -4444,6 +4444,7 @@ https://github.com/meteolab/MeteoLabBeacon
 https://github.com/mgaman/PDUlib
 https://github.com/mggates39/MyDelay
 https://github.com/mhorimoto/ELT_S300_HOLLY
+https://github.com/mhorimoto/M304-lib
 https://github.com/mhoseini967/AdvancedSevenSegment
 https://github.com/miathedev/KomootBLEConnect
 https://github.com/michaelgranz/UniversalTimer
